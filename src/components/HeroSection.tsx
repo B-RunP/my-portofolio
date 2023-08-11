@@ -23,7 +23,7 @@ const HeroSection = () => {
           </h1>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I am a person who is very interested in Frontend Developer and
-            website development developer
+            website development.
           </p>
           <Link
             to="projects"
