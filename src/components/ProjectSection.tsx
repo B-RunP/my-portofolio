@@ -22,12 +22,44 @@ const projects = [
     link: "https://poernama-expense-trecker.web.app/",
   },
   {
-    name: "Projek Three",
+    name: "Limosien",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, voluptas. Ea voluptatibus atque ex voluptate quia.",
-    image: "/project3.jpg",
+      "Aplikasi perizinan penelitian dan magang mahasiswa/dosen/masyarakat/lainya di Dinas Kesehatan, Puskesmas, Instalasi Farmasi dan Laboratorium Kesehatan. Mahasiswa dapat mengunggah surat permohonan magang, melakukan pemantauan proses perizinan dan mendownload surat balasan/surat pengantar secara mandiri.",
+    image: "/limisun.png",
+    github: "#",
+    link: "https://limosien.dinkes.semarangkota.go.id/",
+  },
+  {
+    name: "SIM UHC",
+    description:
+      "Aplikasi Sistem Informasi untuk pendaftaran dan manajemen pelayanan UHC (Universal Health Coverage) di Kota Semarang. Aplikasi ini memfasilitasi pendaftaran peserta, penjadwalan layanan kesehatan, dan pelacakan riwayat medis peserta UHC.",
+    image: "/uhuc.png",
     github: "#",
     link: "#",
+  },
+  {
+    name: "Sayang Beta",
+    description:
+      "Simplifikasi Layanan dan Pendampingan Kesehatan Remaja dan Dewasa Terintegrasi Berbasis ELektronik Kota Semarang (SAYANG BETA), merupakan platform digital yang memiliki tujuan untuk membantu peningkatan kualitas layanan Kesehatan (berupa skrening Kesehatan) di masyarakat dalam rangka mendukung program Integrasi Layanan Primer Kementrian Kesehatan.",
+    image: "/sayang_beta.png",
+    github: "#",
+    link: "https://sayangbeta.dinkes.semarangkota.go.id/",
+  },
+  {
+    name: "Dashboard Hipertensi Kota Semarang (On Development)",
+    description:
+      "Simplifikasi Layanan dan Pendampingan Kesehatan Remaja dan Dewasa Terintegrasi Berbasis ELektronik Kota Semarang (SAYANG BETA), merupakan platform digital yang memiliki tujuan untuk membantu peningkatan kualitas layanan Kesehatan (berupa skrening Kesehatan) di masyarakat dalam rangka mendukung program Integrasi Layanan Primer Kementrian Kesehatan.",
+    image: "/hipertensi.png",
+    github: "#",
+    link: "#",
+  },
+  {
+    name: "PKG Sekolah",
+    description:
+      "Simplifikasi Layanan dan Pendampingan Kesehatan Remaja dan Dewasa Terintegrasi Berbasis ELektronik Kota Semarang (SAYANG BETA), merupakan platform digital yang memiliki tujuan untuk membantu peningkatan kualitas layanan Kesehatan (berupa skrening Kesehatan) di masyarakat dalam rangka mendukung program Integrasi Layanan Primer Kementrian Kesehatan.",
+    image: "/sayang_beta.png",
+    github: "#",
+    link: "https://sayangbeta.dinkes.semarangkota.go.id/",
   },
 ];
 
