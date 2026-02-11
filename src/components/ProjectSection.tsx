@@ -51,15 +51,7 @@ const projects = [
       "Simplifikasi Layanan dan Pendampingan Kesehatan Remaja dan Dewasa Terintegrasi Berbasis ELektronik Kota Semarang (SAYANG BETA), merupakan platform digital yang memiliki tujuan untuk membantu peningkatan kualitas layanan Kesehatan (berupa skrening Kesehatan) di masyarakat dalam rangka mendukung program Integrasi Layanan Primer Kementrian Kesehatan.",
     image: "/hipertensi.png",
     github: "#",
-    link: "#",
-  },
-  {
-    name: "PKG Sekolah",
-    description:
-      "Simplifikasi Layanan dan Pendampingan Kesehatan Remaja dan Dewasa Terintegrasi Berbasis ELektronik Kota Semarang (SAYANG BETA), merupakan platform digital yang memiliki tujuan untuk membantu peningkatan kualitas layanan Kesehatan (berupa skrening Kesehatan) di masyarakat dalam rangka mendukung program Integrasi Layanan Primer Kementrian Kesehatan.",
-    image: "/sayang_beta.png",
-    github: "#",
-    link: "https://sayangbeta.dinkes.semarangkota.go.id/",
+    link: "https://dashboard-ptm.dinkes.semarangkota.go.id/",
   },
 ];
 
